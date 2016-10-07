@@ -1,7 +1,6 @@
 # Instalación y configuración
 
-Cura es un software abierto (Open software) desarrollado por Ultimaker que permite transfor-
-mar modelos 3D en instrucciones entendibles por la mayoría de impresoras 3D, permitiendo generar un objeto físico a partir de su modelo 3D
+Cura es un software abierto (Open software) desarrollado por Ultimaker que permite transformar modelos 3D en instrucciones entendibles por la mayoría de impresoras 3D, permitiendo generar un objeto físico a partir de su modelo 3D
 generado por ordenador.
 Mientras que se decide la posición y la configuración de la impresión, el motor de
 Cura prepara su modelo en segundo plano para así obtener el gcode lo más rápido posible.](http://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura):
