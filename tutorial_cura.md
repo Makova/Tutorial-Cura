@@ -1,16 +1,18 @@
-# Instalación y configuración inicial
+# Instalación y configuración
 
-Existen versiones de CURA compatibles con Windows, MAC y linux. La instalación del programa es similar en las distintas plataformas. Para la instalación del software seguir estos pasos en un sistema [Windows](http://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura):
+Cura es un software abierto (Open software) desarrollado por Ultimaker que permite transfor-
+mar modelos 3D en instrucciones entendibles por la mayoría de impresoras 3D, permitiendo generar un objeto físico a partir de su modelo 3D
+generado por ordenador.
+Mientras que se decide la posición y la configuración de la impresión, el motor de
+Cura prepara su modelo en segundo plano para así obtener el gcode lo más rápido posible.](http://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura):
 
-1. Descargar el paquete de instalación de la última versión de CURA correspondiente a vuestro sistema operativo de la página oficial de  [Ultimaker](http://software.ultimaker.com/).
+Descargar el paquete de instalación de la última versión de CURA correspondiente a vuestro sistema operativo de la página oficial de  [Ultimaker](http://software.ultimaker.com/).
 
 ![](img/cura.png)
 
-2. Ejecutar el instalador
+Otras cos
 
-En la primera ventana nos va a aparecer la ruta donde queremos instalar el programa. Podéis indicarle una ruta o dejar la que trae por defecto.
-
-En la siguiente pestaña van a aparecer los componentes que se desean instalar. Además de instalar CURA, el instalador da la opción de instalar los drivers de Arduino y soporte para abrir diferentes formatos. Se recomienda marcar al menos la opción para abrir archivos en formato [STL](https://es.wikipedia.org/wiki/STL), ya que es el formato más común. Esta opción aparece en la instalación del programa Cura en el sistema Windows,ya que en Ubuntu se instala por defecto.
+[STL](https://es.wikipedia.org/wiki/STL)
 
 ![](img/cura1.png)
 
@@ -26,7 +28,7 @@ En la siguiente pestaña van a aparecer los componentes que se desean instalar. 
 
 ![](img/cura9.png)
 
-![](img/cura6.png)
+![](img/cura10.png)
 
 
 
