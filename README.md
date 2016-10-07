@@ -1,2 +1,2 @@
 # Tutorial-Cura
-Tutorial programa Cura Ultimaker
+Tutorial del programa Cura Ultimaker, para Impresión 3D.

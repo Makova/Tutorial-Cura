@@ -10,5 +10,26 @@ Existen versiones de CURA compatibles con Windows, MAC y linux. La instalación 
 
 En la primera ventana nos va a aparecer la ruta donde queremos instalar el programa. Podéis indicarle una ruta o dejar la que trae por defecto.
 
-En la siguiente pestaña van a aparecer los componentes que se desean instalar. Además de instalar CURA, el instalador da la opción de instalar los drivers de Arduino y soporte para abrir diferentes formatos. Se recomienda marcar al menos la opción para abrir archivos en formato [STL](https://es.wikipedia.org/wiki/STL), ya que es el formato más común.
+En la siguiente pestaña van a aparecer los componentes que se desean instalar. Además de instalar CURA, el instalador da la opción de instalar los drivers de Arduino y soporte para abrir diferentes formatos. Se recomienda marcar al menos la opción para abrir archivos en formato [STL](https://es.wikipedia.org/wiki/STL), ya que es el formato más común. Esta opción aparece en la instalación del programa Cura en el sistema Windows,ya que en Ubuntu se instala por defecto.
+
+![](img/cura1.png)
+
+![](img/cura2.png)
+
+![](img/cura3.png)
+
+![](img/cura6.png)
+
+![](img/cura7.png)
+
+![](img/cura8.png)
+
+![](img/cura9.png)
+
+![](img/cura6.png)
+
+
+
+
+
 
