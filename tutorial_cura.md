@@ -4,6 +4,8 @@ Existen versiones de CURA compatibles con Windows, MAC y linux. La instalación 
 
 1. Descargar el paquete de instalación de la última versión de CURA correspondiente a vuestro sistema operativo de la página oficial de  [Ultimaker](http://software.ultimaker.com/).
 
+![](img/cura.png)
+
 2. Ejecutar el instalador
 
 En la primera ventana nos va a aparecer la ruta donde queremos instalar el programa. Podéis indicarle una ruta o dejar la que trae por defecto.
