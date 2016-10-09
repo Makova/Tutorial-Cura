@@ -35,8 +35,6 @@ Al instalar el programa se pueden configurar ciertos aspectos de la impresora.
 
 ## ENTORNO DEL PROGRAMA
 
-En la primera fila tenemos la barra de menú:
-
 ![](img/cura11.png)
 
 ![](img/cura13.png)
