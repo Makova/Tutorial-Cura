@@ -41,5 +41,14 @@ En la primera fila tenemos la barra de menú:
 
 ![](img/cura13.png)
 
+El área de impresión es una representación del volumen de impresión configurada con las dimensiones y límites de la máquina, permite ver la figura dentro de distintos tipos de impresoras.
+
+- Load
+Abre o carga el modelo 3D que se desee imprimir, pero también se puede arrastrar y soltar el archivo dentro del área de impresión.
+
+- Save
+Guarda el archivo Gcode.
+
+## VISTAS
 
 
