@@ -31,6 +31,8 @@ Al instalar el programa se pueden configurar ciertos aspectos de la impresora.
 
 ![](img/cura9.png)
 
+En GNU/Linux (Ubuntu 16.04.1) es recomendable utilizar la versión 15.04.6 a la versión 2.3.0 BETA.
+
 ![](img/cura10.png)
 
 ## ENTORNO DEL PROGRAMA
@@ -93,13 +95,13 @@ Al seleccionar una pieza contenida en el área de impresión y hacer click con e
 
 ![](img/cura16.png)
 
-La opción **"Center on platform"** pernite centrar el objeto en la plataforma de impresión. **"Delete object"** permite borrar el objeto. **"Multiply object"** permite multiplicar el objeto. **"Split object into parts"** permite dividir el objeto en partes. **"Delete all objects"** permite borrar todos los objetos de la plataforma de impresión. **"Reload all objects"** permite cargar y restaurar todos los objetos borrados.
+La opción **"Center on platform"** permite centrar el objeto en la plataforma de impresión. **"Delete object"** permite borrar el objeto. **"Multiply object"** permite multiplicar el objeto. **"Split object into parts"** permite dividir el objeto en partes. **"Delete all objects"** permite borrar todos los objetos de la plataforma de impresión. **"Reload all objects"** permite cargar y restaurar todos los objetos borrados.
 
 La opción **"Multiply objects"** nos permite crear copias idénticas de un objeto sin tener que cargarlo varias veces, tán solo hay que indicar el número de copias que se desea del objeto y aparecen ordenadas en la superficie de la impresión. 
 
 
 
-# PESTAÑAS DE CONFIGURACIÓN: MODO BÁSICo
+# PESTAÑAS DE CONFIGURACIÓN: MODO BÁSICO
 
 
 
@@ -218,10 +220,19 @@ Por defecto CURA suele reparar correctamente todos los errores del modelo 3D, es
 
 Las dos últimas opciones que podemos encontrar dentro de la pestaña **("Expert")** son:
 
-* Run first run wizard:Con esta opción podemos ejecutar el asistente para la configuración inicial. Este asistente se ejecuta por defecto la primera vez que instalamos el programa
+* Run head offset wizard:Con esta opción podemos ejecutar el asistente para la configuración inicial. Este asistente se ejecuta por defecto la primera vez que instalamos el programa
 * Run bed leveling wizard:Al pulsar esta opción, se va a ejecutar un asistente que ayuda en el proceso de nivelación de la cama.
 
+## MENÚ DE IMPRESIÓN
 
+Una vez cargado el modelo en el área de impresión y configurado los parámetros de laminado, podemos guardar estos valores en la tarjeta SD e imprimir la figura usando para ello la pantalla LCD de la impresora 3D o bien podemos establecer una conexión entre la impresora y el ordenador abriendo para ello el menú de impresión.
 
+Podemos abrir el menú de impresión pulsando sobre el icono "print with USB" que encontraremos en la parte superior del área de impresión o haciendo clic sobre la opción "print" que está dentro del menú "file" de la barra de tareas.
+
+![](img/cura30.png)
+
+Al hacer esto se nos abrirá una nueva ventana con el menú de impresión. Esta ventana puede mostrar dos entornos visuales distintos en función de la configuración que tengamos (ver "preferences"), puede mostrar la vista básica de CURA o cargar el entorno de pronterface.
+
+En ambos entornos de impresión vamos a encontrar las mismas opciones, mover los ejes en todas direcciones, extruir, fijar la temperatura tanto de la cama caliente como del HotEnd y visualizarla en el monitor de temperaturas. Cuando la impresora tenga la temperatura deseada y tengamos todo listo, tan solo hay que hacer clic sobre el botón "print" para que comience la impresión. 
 
 
