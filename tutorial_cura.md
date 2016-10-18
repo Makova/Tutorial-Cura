@@ -3,7 +3,7 @@
 Cura es un software abierto (Open software) desarrollado por Ultimaker que permite transformar modelos 3D en instrucciones entendibles por la mayoría de impresoras 3D, permitiendo generar un objeto físico a partir de su modelo 3D generado por ordenador.
 
 Mientras que se decide la posición y la configuración de la impresión, el motor de
-Cura prepara su modelo en segundo plano para así obtener el gcode lo más rápido posible.](http://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura):
+Cura prepara su modelo en sx1egundo plano para así obtener el gcode lo más rápido posible. [](http://www.zonamaker.com/impresion-3d/software-imp3d/manual-de-cura):
 
 Descargar el paquete de instalación de la última versión de CURA correspondiente a vuestro sistema operativo de la página oficial de  [Ultimaker](http://software.ultimaker.com/).
 
@@ -45,49 +45,49 @@ El área de impresión es una representación del volumen de impresión configur
 
 ### LOAD/SAVE
 
-* Load:Abre o carga el modelo 3D que se desee imprimir, pero también se puede arrastrar y soltar el archivo dentro del área de impresión.
+* Load: Abre o carga el modelo 3D que se desee imprimir, pero también se puede arrastrar y soltar el archivo dentro del área de impresión.
 
-* Save:Guarda el archivo Gcode.
+* Save: Guarda el archivo Gcode.
 
 ### VISTAS
 
 En este icono se despliegan 5 nuevos tipos del área de impresión, permitiendo analizar los objetos que se van a imprimir, son las sigientes:
 
-* Normal:Muestra la figura tal como se abre.
+* Normal: Muestra la figura tal como se abre.
 
-* Overhang:Realza la zonas que tienen un ángulo superior al ángulo que tengamos configurado. Resaltando así las zonas que pueden causar fallos a la hora de imprimir y determinar si es necesario soporte o no.
+* Overhang: Realza la zonas que tienen un ángulo superior al ángulo que tengamos configurado. Resaltando así las zonas que pueden causar fallos a la hora de imprimir y determinar si es necesario soporte o no.
 
-* Transparent:Hace transparentes a los objetos de impresión, permitiendo ver a traves de ellos.
+* Transparent: Hace transparentes a los objetos de impresión, permitiendo ver a traves de ellos.
 
-* X-Ray:Permite ver a través del objeto, mostrando las cavidades o elementos internos de la pieza a imprimir.
+* X-Ray: Permite ver a través del objeto, mostrando las cavidades o elementos internos de la pieza a imprimir.
 
-* Layers:Esta es la vista más útil de todas, permite ver el diseño por capas, según se va a imprimir. Permite observar las trayectorias que realizará la Impresora 3D y ver si hay alguna zona en la que el laminado de la pieza se hace cómo queremos o no.
+* Layers: Esta es la vista más útil de todas, permite ver el diseño por capas, según se va a imprimir. Permite observar las trayectorias que realizará la Impresora 3D y ver si hay alguna zona en la que el laminado de la pieza se hace cómo queremos o no.
 
 ## OPCIONES DE TRANSFORMACIÓN
 
 Cuando se carga un objeto y se selecciona, aparecen en la esquina inferior izquierda los siguientes iconos.
 
-* Rotate:Permite rotar el modelo en cualquiera de los tres ejes mediantes unas circunferencias que, pulsando en ellas, permite mover la pieza en dicho eje. También despliega dos opciones más.
+* Rotate: Permite rotar el modelo en cualquiera de los tres ejes mediantes unas circunferencias que, pulsando en ellas, permite mover la pieza en dicho eje. También despliega dos opciones más.
 
-* Reset:Para restablecer la posición de inicio.
+* Reset: Para restablecer la posición de inicio.
 
-* Lay flat:Permite apoyar el modelo por su parte plana.
+* Lay flat: Permite apoyar el modelo por su parte plana.
 
-* Scale:Permite modificar el tamaño del modelo 3D. El icono despliega un menú donde podemos aplizar un factor de multiplicación a la escala del objeto o bien indicar las medidas que quereamos que tenga el mismo.
+* Scale: Permite modificar el tamaño del modelo 3D. El icono despliega un menú donde podemos aplizar un factor de multiplicación a la escala del objeto o bien indicar las medidas que quereamos que tenga el mismo.
 
-* Reset:Deshacer los cambios aplicados.
+* Reset: Deshacer los cambios aplicados.
 
-* To Max:Escalar el tamaño máximo permitido por el área de impresión.
+* To Max: Escalar el tamaño máximo permitido por el área de impresión.
 
 Podemos redimensionar de manera proporcional al objeto inicial o de un modo totalmente libre, dependiendo de la activación en la opción "Uniform Scale".
 
 * Mirror: Permite realizar simetrías en los objetos.
 
-* Mirror X:Simetría del objeto respecto del eje X.
+* Mirror X: Simetría del objeto respecto del eje X.
 
-* Mirror Y:simetría del objeto respecto del eje Y.
+* Mirror Y: Simetría del objeto respecto del eje Y.
 
-* Mirror Z:Simetría del objeto respecto del eje Z.
+* Mirror Z: Simetría del objeto respecto del eje Z.
 
 ### BOTÓN DERECHO
 
